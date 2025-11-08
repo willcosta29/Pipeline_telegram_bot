@@ -66,8 +66,6 @@ A etapa final utiliza o Amazon Athena para consultar os dados Parquet particiona
 | **Criação da Tabela Athena**| Definição da Tabela Externa `telegram` no Athena, mapeando o schema do Parquet e configurando o particionamento por `context_date`. |
 | **Adicionando Partições** | Execução do comando `MSCK REPAIR TABLE telegram;` para que o Athena reconheça as partições de dados criadas pelo Lambda no S3. |
 
-## 📊 Análises de Exemplo (Insights)
-
 A otimização dos dados para o Athena permite a execução de consultas complexas de forma eficiente:
 
 #### Volume de Mensagens Diário:
