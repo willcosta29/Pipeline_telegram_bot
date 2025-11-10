@@ -1,5 +1,8 @@
 # Pipeline de Dados do Telegram com AWS
 
+![telegram1](https://github.com/user-attachments/assets/2f0d8db7-026e-493f-bb3b-8774670c2db6)
+
+
 ## Visão Geral do Projeto
 
 Em um mundo digital dominado pela comunicação instantânea, os chatbots em plataformas como o Telegram tornaram-se ferramentas poderosas para interação automatizada e coleta de dados. Este projeto implementa um pipeline robusto e escalável na AWS (Amazon Web Services) para transformar a comunicação transacional de um grupo do Telegram em dados analíticos valiosos.
